@@ -1,3 +1,4 @@
+# UTEC CDIA Workshop Day 1
 # 🍽️ Foodie: tu primer agente con LangChain (workshop hands-on)
 
 Lab para alumnos de ciencia de datos: **workflows vs agentes** (según *Building Effective Agents* de Anthropic), un agente **ReAct** con `gpt-5-mini`, un **servidor MCP propio sobre Tavily**, y **testing/debugging** de agentes. Duración: ≈ 2 h 50 min.
@@ -62,6 +63,4 @@ El notebook se ejecutó de punta a punta en un kernel real con un **modelo de le
 ## Regenerar los notebooks
 
 Edita `dev/lab_source.txt` y ejecuta (con `pip install nbformat`): `python dev/build_notebooks.py`.
-# CDIAWorkshopD1
-# CDIAWorkshopD1
-# CDIAWorkshopD1
+
