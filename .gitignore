@@ -1,0 +1,13 @@
+# Entorno y secretos
+.venv/
+.env
+.ipynb_checkpoints/
+# Artefactos del lab
+mcp_server.log
+__pycache__/
+.ipynb_checkpoints/
+# Transcripciones crudas (contenido de terceros): NO se publican en el repo
+data/transcripts/
+data/transcripts_index.csv
+# Tabla real generada por el instructor (decide tú si la publicas)
+# data/menciones.csv

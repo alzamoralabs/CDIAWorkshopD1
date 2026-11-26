@@ -1,0 +1,10 @@
+# Entorno del lab (probado con Python 3.12). Instalar dentro del .venv:  pip install -r requirements.txt
+langchain==1.5.2
+langchain-openai==1.8.5
+mcp==2.3.0            # SDK oficial de MCP (v2: MCPServer + Client)
+tavily-python==0.8.5
+pandas==3.1.1
+python-dotenv==1.2.4
+ipykernel==7.4.0
+# Solo para el script del instructor (collect_transcripts.py):
+youtube-transcript-api==1.2.5

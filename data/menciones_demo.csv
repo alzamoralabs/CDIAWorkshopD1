@@ -1,0 +1,17 @@
+youtuber,video_url,restaurante,plato,distrito,categoria,precio,comentario
+Canal Demo A,https://www.youtube.com/watch?v=DEMO0001,Cevichería Marea Azul,Ceviche clásico,Surquillo,ceviche,$$,Pescado muy fresco y leche de tigre potente y picante; se llena al mediodía.
+Canal Demo A,https://www.youtube.com/watch?v=DEMO0001,Anticuchos Doña Lucha,Anticuchos de corazón,Barranco,anticuchos,$,Parrilla en la calle con sazón intensa; ideal para ir de noche con amigos.
+Canal Demo A,https://www.youtube.com/watch?v=DEMO0002,Chifa Dragón Dorado,Arroz chaufa especial,Lince,chifa,$,Porciones grandes para compartir y buen precio; apto para familias con niños.
+Canal Demo B,https://www.youtube.com/watch?v=DEMO0003,Cevichería Marea Azul,Tiradito al ají amarillo,Surquillo,ceviche,$$,Corte fino y salsa cremosa; menos picante que el ceviche.
+Canal Demo B,https://www.youtube.com/watch?v=DEMO0003,La Casona Criolla,Ají de gallina,Barranco,criolla,$$,Cremoso y de ají suave; sirve para quien no come picante. Ambiente de casona.
+Canal Demo B,https://www.youtube.com/watch?v=DEMO0004,Nikkei Sora,Makis acevichados,Miraflores,nikkei,$$$,Fusión cuidada para una ocasión especial; conviene reservar con anticipación.
+Canal Demo B,https://www.youtube.com/watch?v=DEMO0004,Dulce Tentación Peruana,Suspiro a la limeña,Barranco,postres,$,Postre clásico con merengue al oporto y porción generosa.
+Canal Demo C,https://www.youtube.com/watch?v=DEMO0005,El Fogón de la Abuela,Lomo saltado,San Isidro,criolla,$$$,Carne tierna y papas crocantes; servicio rápido para un almuerzo de trabajo.
+Canal Demo C,https://www.youtube.com/watch?v=DEMO0005,Mercado Sabor Chalaco,Chicharrón de pescado,Chorrillos,pescados y mariscos,$,Crocante y abundante; ambiente de mercado y sin lujos.
+Canal Demo C,https://www.youtube.com/watch?v=DEMO0006,Cevichería El Muelle Chico,Ceviche mixto,Chorrillos,ceviche,$$,Vista al mar y mariscos frescos; mejor ir temprano los fines de semana.
+Canal Demo A,https://www.youtube.com/watch?v=DEMO0007,Sándwiches Don Pepe,Pan con chicharrón,Surquillo,sandwiches,$,Desayuno clásico con camote frito y salsa criolla; hay fila los domingos.
+Canal Demo C,https://www.youtube.com/watch?v=DEMO0007,Parrillas Don Toño,Anticuchos de corazón,Santiago de Surco,anticuchos,$$,Más tranquilo y familiar que los de la calle; porciones medianas.
+Canal Demo B,https://www.youtube.com/watch?v=DEMO0008,Cevichería Marea Azul,Ceviche de conchas negras,Surquillo,ceviche,$$$,Opción de lujo del local con sabor intenso a mar; el picante es a elección.
+Canal Demo A,https://www.youtube.com/watch?v=DEMO0009,Nikkei Sora,Tiradito nikkei,Miraflores,nikkei,$$$,Cremoso y delicado; porciones pequeñas pensadas para probar varios platos.
+Canal Demo C,https://www.youtube.com/watch?v=DEMO0010,Picantería La Rocoto,Rocoto relleno,Lima,criolla,$$,Muy picante; plato típico arequipeño servido con pastel de papa.
+Canal Demo A,https://www.youtube.com/watch?v=DEMO0010,Chifa Dragón Dorado,Tallarín saltado de pollo,Lince,chifa,$,Salteado al wok con buen aroma; opción económica para el almuerzo.

@@ -63,3 +63,4 @@ El notebook se ejecutó de punta a punta en un kernel real con un **modelo de le
 
 Edita `dev/lab_source.txt` y ejecuta (con `pip install nbformat`): `python dev/build_notebooks.py`.
 # CDIAWorkshopD1
+# CDIAWorkshopD1
