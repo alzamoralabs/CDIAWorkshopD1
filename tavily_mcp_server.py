@@ -13,6 +13,10 @@ from tavily.errors import InvalidAPIKeyError, UsageLimitExceededError
 # Las claves viven en .env (junto a este archivo); si el cliente ya pasó una variable, esa gana.
 load_dotenv(Path(__file__).parent / ".env")
 
+# En Windows, stderr usa por defecto la codificación local (cp1252): forzamos UTF-8 para que el log sea legible.
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 # IMPORTANTE: en stdio, stdout es el canal del protocolo. Los logs SIEMPRE van a stderr.
 logging.basicConfig(stream=sys.stderr, level=logging.INFO, format="[tavily-mcp] %(levelname)s %(message)s")
 log = logging.getLogger("tavily-mcp")
